@@ -1,4 +1,4 @@
-1️⃣ Dependencies for WINDOWS & LINUX & VPS
+ WINDOWS & LINUX 
 ```
 sudo apt update
 sudo apt upgrade -y
