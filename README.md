@@ -1,3 +1,3 @@
-# For Windows and Linux
+# For Windows and Linux 
 sudo apt update
 sudo apt upgrade -y
